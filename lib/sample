@@ -1,0 +1,14 @@
+Increase a Font
+make a Less Code 
+And When i tap the Pay Button That time show a Confirmation Alert Dilaogue with user Friendly messgae
+and i click a Book Now
+that time  store data 
+in db
+Collection name
+Users->authid->booking-> documensts (here)
+store in the Firestore 
+all field name is connected user frindly name
+also add a  field
+1 bookingTime using a TimeStamp
+2 bookingID make a method its length 12 and contain a random Capital Char and number
+3 choose a payment method name choice by the DropDownimport
